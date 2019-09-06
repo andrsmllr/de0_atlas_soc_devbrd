@@ -5,3 +5,4 @@ References:
 [Official product page](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=941)  
 [Official resources](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=941&PartNo=4)  
 [Official user manual](https://www.terasic.com.tw/attachment/archive/941/DE0-Nano-SoC_User_manual_rev.C1.pdf)  
+[Atlas-SoC on Rocketboards.org](https://rocketboards.org/foswiki/Documentation/AtlasSoCDevelopmentPlatform)  
